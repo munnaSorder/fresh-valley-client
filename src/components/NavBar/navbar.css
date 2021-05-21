@@ -1,0 +1,15 @@
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(0,0,0,255)!important;
+
+}
+.login-btn {
+    background-color: rgba(113,186,88,255);
+    color: white!important;
+    border-radius: 5px;
+    font-weight: normal;
+    width: 70px;
+    text-align: center;
+}
